@@ -160,9 +160,9 @@ Movie-Search-Web/
 
 ## 📸 Screenshots
 
-![Screenshot 1](Screenshot%202026-02-22%20231144.png)
-![Screenshot 2](Screenshot%202026-02-22%20231105.png)
-![Screenshot 3](Screenshot%202026-02-22%20231038.png)
+![Screenshot 1](frontend/Screenshot%202026-02-22%20231144.png)
+![Screenshot 2](frontend/Screenshot%202026-02-22%20231105.png)
+![Screenshot 3](frontend/Screenshot%202026-02-22%20231038.png)
 
 ---
 
